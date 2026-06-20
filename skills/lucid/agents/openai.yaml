@@ -1,0 +1,4 @@
+interface:
+  display_name: "清爽"
+  short_description: "项目收尾清爽化：同步文档记忆并审查 Git 安全状态"
+  default_prompt: "Use $lucid 为当前项目做收尾清爽检查。"
